@@ -16,8 +16,10 @@ Our task here is a binary classification problem, either touch left or touch rig
 Blog Posts going into more detail on this project:
 
 https://thejasonmo.medium.com/automated-data-collection-from-youtube-6e433b0e3513
+
 https://thejasonmo.medium.com/pose-estimation-and-preprocessing-for-an-ai-fencing-referee-e63515a55dbd
 
 
-<img align="left" width="450" height="253" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
-<img align="right" width="450" height="253" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
+<img align="left" width="486" height="273" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
+
+<img align="right" width="405" height="228" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
