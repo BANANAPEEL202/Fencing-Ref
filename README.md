@@ -21,6 +21,6 @@ https://thejasonmo.medium.com/pose-estimation-and-preprocessing-for-an-ai-fencin
 
 <img align="left" width="345" height="195" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
 
-<img align="right" width="486" height="273" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
+<img align="right" width="461" height="246" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
 
 
