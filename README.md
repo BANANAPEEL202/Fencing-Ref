@@ -19,7 +19,7 @@ https://thejasonmo.medium.com/automated-data-collection-from-youtube-6e433b0e351
 
 https://thejasonmo.medium.com/pose-estimation-and-preprocessing-for-an-ai-fencing-referee-e63515a55dbd
 
-<img align="left" width="405" height="228" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
+<img align="left" width="364" height="205" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
 
 <img align="right" width="486" height="273" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
 
