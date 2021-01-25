@@ -1,4 +1,4 @@
-# Fencing-Ref
+# AI Fencing Ref
 <p align="center">
   <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg" width="583" height="328">
 </p>
