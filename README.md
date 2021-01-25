@@ -1,6 +1,6 @@
 # Fencing-Ref
 
-[alt text](https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg)
+![Cover](https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg)
 
 Fencing isn’t exactly known for being at the leading edge of sports technology. It wasn’t until the 1990s that foil fencing had electric scoring systems. However, fencing presents a unique challenge that should be perfect for artificial intelligence.
 The Why
