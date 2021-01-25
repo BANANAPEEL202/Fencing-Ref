@@ -9,4 +9,4 @@ If you want to catch up on how right of way works in fencing, Ninh Ly has a grea
 The Concept
 Our task here is a binary classification problem, either touch left or touch right (we’re excluding simultaneous touches here to make the task much simpler). We’re fortunate to have a vast library of fencing videos on youtube that we can use to train the model. All we need to do is cut the video into smaller clips and label each as touch left or right, which we will cover in the next post. After that, we can treat this as a human action or video classifier.
 
-![Example](/images/repovideo.mp4)
+![Example](/root/repo gif.gif)
