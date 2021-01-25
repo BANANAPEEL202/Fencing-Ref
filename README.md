@@ -1,10 +1,8 @@
 # Fencing-Ref
-
-
-<img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg" width="583" height="328">
-
-
-                                     
+<p align="center">
+  <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg" width="583" height="328">
+</p>
+                                   
 Fencing isn’t exactly known for being at the leading edge of sports technology. It wasn’t until the 1990s that foil fencing had electric scoring systems. However, fencing presents a unique challenge that should be perfect for artificial intelligence.
 The Why
 Unlike many other sports, the referee in fencing has a huge influence over the outcome of a bout. The ref has the power to determine who gets the point after a touch. It’s not like in basketball, where if the ball goes in the hoop, you’re guaranteed to score points. There are complex rules of right of way that dictate which fencers score a point in the event they both hit. Many of these rules are up to interpretation by the referee.
