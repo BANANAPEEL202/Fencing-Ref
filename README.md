@@ -26,8 +26,10 @@ https://thejasonmo.medium.com/pose-estimation-and-preprocessing-for-an-ai-fencin
 
 
 
-Model Architecture
 
+<p align="center">
+    Model Architecture
+</p>
 <p align="center">
   <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Model%20Architecture.png" width="328" height="328">
 </p>
