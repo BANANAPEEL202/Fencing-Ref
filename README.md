@@ -13,6 +13,7 @@ This is where artificial intelligence can hopefully step in and help. The obviou
 
 Our task here is a binary classification problem, either touch left or touch right (we’re excluding simultaneous touches here to make the task much simpler). We’re fortunate to have a vast library of fencing videos on youtube that we can use to train the model. All we need to do is cut the video into smaller clips and label each as touch left or right, and we have our data to train a model on. Then, we use OpenPose to extract the skeleton pose of each fencer and save them as x, y coordinates. We then preprocess the data to make it easier for the model to train on and finally feed it into a TCN network which can achieve about 70% accuracy!
 
+
 Blog Posts going into more detail on this project:
 
 https://thejasonmo.medium.com/automated-data-collection-from-youtube-6e433b0e3513
