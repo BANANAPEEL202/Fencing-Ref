@@ -1,7 +1,9 @@
 # AI Fencing Ref
+
 <p align="center">
-  <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/Fencing%20Pose.jpeg" width="583" height="328">
+  <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif" width="583" height="328">
 </p>
+
                                    
 Fencing isn’t exactly known for being at the leading edge of sports technology. It wasn’t until the 1990s that foil fencing had electric scoring systems. However, fencing presents a unique challenge that should be perfect for artificial intelligence.
 The Why
@@ -20,8 +22,6 @@ https://thejasonmo.medium.com/automated-data-collection-from-youtube-6e433b0e351
 
 https://thejasonmo.medium.com/pose-estimation-and-preprocessing-for-an-ai-fencing-referee-e63515a55dbd
 
-<img align="left" width="328" height="182" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/pose.gif">
 
-<img align="right" width="437" height="233" src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif">
 
 
