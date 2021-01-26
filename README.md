@@ -12,7 +12,7 @@ Good referees are also hard to come by. The fencing community is already relativ
 This is where artificial intelligence can hopefully step in and help. The obvious advantages being that there is no limit to how many bouts a software algorithm could ref and that algorithms are consistent in their output. Realistically, an artificial intelligence referee just wouldn’t be able to replace a human one and would be only there to assist the human referee. This could be especially useful when a fencer challenges a referee’s call, something that is currently limited to only very high-level fencing where there is more than one ref at hand.
 
 <p align="center">
-  <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif" width="583" height="328">
+  <img src="https://github.com/BANANAPEEL202/Fencing-Ref/blob/main/graph.gif" width="517" height="290">
 </p>
 
 Our task here is a binary classification problem, either touch left or touch right (we’re excluding simultaneous touches here to make the task much simpler). We’re fortunate to have a vast library of fencing videos on youtube that we can use to train the model. All we need to do is cut the video into smaller clips and label each as touch left or right, and we have our data to train a model on. Then, we use OpenPose to extract the skeleton pose of each fencer and save them as x, y coordinates. We then preprocess the data to make it easier for the model to train on and finally feed it into a TCN network which can achieve about 70% accuracy!
